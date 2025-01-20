@@ -1,0 +1,79 @@
+2025-01-20T00:26:48.930  INFO utils.middleware.log_incoming_request - None - start
+2025-01-20T00:26:48.930  INFO utils.middleware.log_incoming_request - None - end in time (ms): 0.00
+2025-01-20T00:26:48.930  INFO utils.middleware.request_cancellation - Task Cancellatation Requested.
+2025-01-20T00:27:28.156  INFO utils.middleware.log_incoming_request - recommend - start
+2025-01-20T00:27:28.171  INFO utils.middleware.log_incoming_request - recommend - end in time (ms): 15.58
+2025-01-20T00:27:28.171  INFO utils.middleware.request_cancellation - Task Cancellatation Requested.
+2025-01-20T00:28:04.793  INFO utils.middleware.log_incoming_request - None - start
+2025-01-20T00:28:04.793  INFO utils.middleware.log_incoming_request - None - end in time (ms): 0.00
+2025-01-20T00:28:04.815  INFO utils.middleware.request_cancellation - Task Cancellatation Requested.
+2025-01-20T00:28:24.316  INFO utils.middleware.log_incoming_request - recommend - start
+2025-01-20T00:28:24.316  INFO utils.middleware.log_incoming_request - recommend - end in time (ms): 0.00
+2025-01-20T00:28:24.316  INFO utils.middleware.request_cancellation - Task Cancellatation Requested.
+2025-01-20T00:28:27.607  INFO utils.middleware.log_incoming_request - recommend - start
+2025-01-20T00:28:27.623  INFO utils.middleware.log_incoming_request - recommend - end in time (ms): 15.92
+2025-01-20T00:28:27.623  INFO utils.middleware.request_cancellation - Task Cancellatation Requested.
+2025-01-20T00:28:56.577  INFO utils.middleware.log_incoming_request - recommend - start
+2025-01-20T00:28:56.577  INFO utils.middleware.log_incoming_request - recommend - end in time (ms): 0.00
+2025-01-20T00:28:56.577  INFO utils.middleware.request_cancellation - Task Cancellatation Requested.
+2025-01-20T00:30:32.226  INFO utils.middleware.log_incoming_request - recommend - start
+2025-01-20T00:30:32.242  INFO utils.middleware.log_incoming_request - recommend - end in time (ms): 15.63
+2025-01-20T00:30:32.242  INFO utils.middleware.request_cancellation - Task Cancellatation Requested.
+2025-01-20T00:30:38.842  INFO utils.middleware.log_incoming_request - None - start
+2025-01-20T00:30:38.842  INFO utils.middleware.log_incoming_request - None - end in time (ms): 0.00
+2025-01-20T00:30:38.842  INFO utils.middleware.request_cancellation - Task Cancellatation Requested.
+2025-01-20T00:31:00.241  INFO utils.middleware.log_incoming_request - recommend - start
+2025-01-20T00:31:28.075  INFO utils.middleware.log_incoming_request - recommend - end in time (ms): 27834.65
+2025-01-20T00:31:28.075  INFO utils.middleware.request_cancellation - Task Cancellatation Requested.
+2025-01-20T00:35:59.867  INFO utils.middleware.log_incoming_request - recommend - start
+2025-01-20T00:36:03.194  INFO utils.middleware.log_incoming_request - recommend - end in time (ms): 3326.88
+2025-01-20T00:36:03.210  INFO utils.middleware.request_cancellation - Task Cancellatation Requested.
+2025-01-20T00:43:36.816  INFO utils.middleware.log_incoming_request - recommend - start
+2025-01-20T00:43:36.842  INFO utils.middleware.log_incoming_request - recommend - end in time (ms): 24.15
+2025-01-20T00:43:36.842  INFO utils.middleware.request_cancellation - Task Cancellatation Requested.
+2025-01-20T00:43:45.701  INFO utils.middleware.log_incoming_request - recommend - start
+2025-01-20T00:43:45.704 ERROR controllers.recommendation_controller - Error 401: Unauthorized: Incorrect password
+2025-01-20T00:43:45.705  INFO utils.middleware.log_incoming_request - recommend - end in time (ms): 3.01
+2025-01-20T00:43:45.715  INFO utils.middleware.request_cancellation - Task Cancellatation Requested.
+2025-01-20T00:43:52.867  INFO utils.middleware.log_incoming_request - recommend - start
+2025-01-20T00:44:04.109 ERROR controllers.recommendation_controller - Error 401: Unauthorized: Incorrect password
+2025-01-20T00:44:04.134  INFO utils.middleware.log_incoming_request - recommend - end in time (ms): 11267.24
+2025-01-20T00:44:04.141  INFO utils.middleware.request_cancellation - Task Cancellatation Requested.
+2025-01-20T00:44:21.927  INFO utils.middleware.log_incoming_request - recommend - start
+2025-01-20T00:44:24.535 ERROR controllers.recommendation_controller - Error 401: Unauthorized: Incorrect password
+2025-01-20T00:44:24.535  INFO utils.middleware.log_incoming_request - recommend - end in time (ms): 2607.53
+2025-01-20T00:44:24.535  INFO utils.middleware.request_cancellation - Task Cancellatation Requested.
+2025-01-20T00:45:10.763  INFO utils.middleware.log_incoming_request - recommend - start
+2025-01-20T00:45:15.836 ERROR controllers.recommendation_controller - Error 401: Unauthorized: Incorrect password
+2025-01-20T00:45:15.861  INFO utils.middleware.log_incoming_request - recommend - end in time (ms): 5097.82
+2025-01-20T00:45:15.871  INFO utils.middleware.request_cancellation - Task Cancellatation Requested.
+2025-01-20T00:45:22.052  INFO utils.middleware.log_incoming_request - recommend - start
+2025-01-20T00:45:29.665  INFO utils.middleware.log_incoming_request - recommend - end in time (ms): 7612.25
+2025-01-20T00:45:29.671  INFO utils.middleware.request_cancellation - Task Cancellatation Requested.
+2025-01-20T00:46:18.791  INFO utils.middleware.log_incoming_request - recommend - start
+2025-01-20T00:46:41.889  INFO utils.middleware.log_incoming_request - recommend - end in time (ms): 23098.92
+2025-01-20T00:46:41.905  INFO utils.middleware.request_cancellation - Task Cancellatation Requested.
+2025-01-20T00:46:50.386  INFO utils.middleware.log_incoming_request - recommend - start
+2025-01-20T00:46:53.681  INFO utils.middleware.log_incoming_request - recommend - end in time (ms): 3295.55
+2025-01-20T00:46:53.697  INFO utils.middleware.request_cancellation - Task Cancellatation Requested.
+2025-01-20T00:47:04.192  INFO utils.middleware.log_incoming_request - recommend - start
+2025-01-20T00:47:04.196  INFO utils.middleware.log_incoming_request - recommend - end in time (ms): 3.72
+2025-01-20T00:47:04.196  INFO utils.middleware.request_cancellation - Task Cancellatation Requested.
+2025-01-20T00:47:09.505  INFO utils.middleware.log_incoming_request - recommend - start
+2025-01-20T00:47:09.513  INFO utils.middleware.log_incoming_request - recommend - end in time (ms): 8.01
+2025-01-20T00:47:09.519  INFO utils.middleware.request_cancellation - Task Cancellatation Requested.
+2025-01-20T00:50:05.276  INFO utils.middleware.log_incoming_request - readLogs - start
+2025-01-20T00:50:05.546  INFO utils.middleware.log_incoming_request - readLogs - end in time (ms): 270.15
+2025-01-20T00:50:05.556  INFO utils.middleware.request_cancellation - Task Cancellatation Requested.
+2025-01-20T00:50:10.956  INFO utils.middleware.log_incoming_request - readLogs - start
+2025-01-20T00:50:10.966  INFO utils.middleware.log_incoming_request - readLogs - end in time (ms): 10.31
+2025-01-20T00:50:10.980  INFO utils.middleware.request_cancellation - Task Cancellatation Requested.
+2025-01-20T00:50:13.188  INFO utils.middleware.log_incoming_request - readLogs - start
+2025-01-20T00:50:13.206  INFO utils.middleware.log_incoming_request - readLogs - end in time (ms): 17.76
+2025-01-20T00:50:13.212  INFO utils.middleware.request_cancellation - Task Cancellatation Requested.
+2025-01-20T00:50:34.126  INFO utils.middleware.log_incoming_request - recommend - start
+2025-01-20T00:50:34.136  INFO utils.middleware.log_incoming_request - recommend - end in time (ms): 10.13
+2025-01-20T00:50:34.143  INFO utils.middleware.request_cancellation - Task Cancellatation Requested.
+2025-01-20T00:50:39.423  INFO utils.middleware.log_incoming_request - recommend - start
+2025-01-20T00:50:39.473  INFO utils.middleware.log_incoming_request - recommend - end in time (ms): 49.81
+2025-01-20T00:50:39.473  INFO utils.middleware.request_cancellation - Task Cancellatation Requested.

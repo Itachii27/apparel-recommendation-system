@@ -1,0 +1,13 @@
+fastapi
+fastapi-router-controller
+Pillow
+matplotlib
+nltk
+seaborn
+scikit-learn
+plotly
+gensim
+keras
+tensorflow
+python-multipart
+uvicorn
